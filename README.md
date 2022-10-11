@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Videos Platform 影片搜尋播放平台
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 功能
+* 透過呼叫 Youtube API 取得影片列表
+* 可搜尋影片關鍵字
+* 可點選影片
+* 可看到影片資訊
+* 可播放選擇的影片
+
+## UI framework
+使用 [Semantic UI](https://semantic-ui.com/)
 
 ## Available Scripts
 
